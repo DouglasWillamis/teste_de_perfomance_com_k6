@@ -1,3 +1,4 @@
 .idea
 reports/*
 !reports/.gitkeep
+.env
